@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F3D5E,100:38BDF8&height=230&section=header&text=Gustavo%20Henrique&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20%26%20AI%20Engineer%20%E2%80%A2%20Co-Founder%20%26%20Tech%20Lead&descSize=19&descAlignY=57&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F3D5E,100:38BDF8&height=230&section=header&text=Gustavo%20Henrique&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=desc=Senior%20Software%20and%20AI%20Engineer%20%E2%80%A2%20Co-Founder%20and%20Tech%20Lead&descSize=19&descAlignY=57&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=820&height=45&lines=Shipping+AI+agents+to+production+%F0%9F%A4%96;RAG+%E2%80%A2+multi-agent+%E2%80%A2+voice+AI+%E2%80%A2+OCR+%F0%9F%A7%A0;Go+%2B+TypeScript+on+AWS+serverless+%E2%98%81%EF%B8%8F;Healthcare+%E2%80%A2+fintech+%E2%80%A2+elections+%E2%80%A2+retail+%F0%9F%8F%A5;Scale+by+design%2C+not+by+patching+%E2%9A%A1" /></a>
 
@@ -9,7 +9,7 @@
 <a href="mailto:developer.gustavor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=developergustavor&label=Profile%20views&color=38BDF8&style=for-the-badge"/>
 
-**English** · [Português](README pt-BR.md)
+**English** · [Português](README%20pt-BR.md)
 
 </div>
 
