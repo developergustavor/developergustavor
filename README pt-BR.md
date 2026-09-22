@@ -15,7 +15,7 @@
 
 ## ⚡ Sobre mim
 
-**Engenheiro de Software & IA Sênior** e **Co-Founder / Tech Lead da DeepRocket**, com mais de
+**Engenheiro de Software & IA Principal** e **Co-Founder / Tech Lead da DeepRocket**, com mais de
 7 anos construindo software e 6 anos liderando engenharia. Projeto e entrego **plataformas
 multi-tenant onde agentes de IA fazem trabalho real**, e sou dono delas de ponta a ponta:
 arquitetura, código, infraestrutura, CI/CD e produção.
