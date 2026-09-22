@@ -15,7 +15,7 @@
 
 ## ⚡ About me
 
-**Senior Software & AI Engineer** and **Co-Founder / Tech Lead at DeepRocket**, with 7+ years
+**Principal Software & AI Engineer** and **Co-Founder / Tech Lead at DeepRocket**, with 7+ years
 building software and 6 years leading engineering. I design and ship **multi-tenant platforms
 where AI agents do real work** — and I own them end to end: architecture, code, infrastructure,
 CI/CD and production.
